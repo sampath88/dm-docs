@@ -1,8 +1,9 @@
 {
-  "editor.wordWrap": "wordWrapColumn",
-  "editor.wordWrapColumn": 55,
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 85,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.formatOnSaveMode": "file",
-  "editor.formatOnType": true
+  "editor.formatOnType": true,
+  "errorLens.enabled": true
 }

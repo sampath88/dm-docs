@@ -1,7 +1,9 @@
+import { Button } from "@/components/ui/button";
+
 const Home = () => {
   return (
-    <div>
-      <p>Hello world</p>
+    <div className="flex min-h-screen items-center  justify-center">
+      <Button className="bg-green-500">Click me</Button>
     </div>
   );
 };
